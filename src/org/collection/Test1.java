@@ -15,8 +15,12 @@ l.add("Framework");
 for (String s : l) {
 	System.out.println(s);
 }
+<<<<<<< HEAD
+System.out.println("novfeel");
+=======
 System.out.println("Karmugil");
 
 
+>>>>>>> 1c740d08e0b6e2fe4249ad892dc1c406b5802101
 }
 }
